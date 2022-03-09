@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 377283313}
   - component: {fileID: 377283312}
   - component: {fileID: 377283311}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Fireworks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -694,7 +694,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1598424644}
   - component: {fileID: 1598424643}
-  m_Layer: 16
+  m_Layer: 0
   m_Name: PostProcessingGO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
